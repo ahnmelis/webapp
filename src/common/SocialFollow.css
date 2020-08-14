@@ -1,0 +1,11 @@
+a {
+  margin: 10px;
+  display: inline-block;
+}
+
+a.linkedin {
+    color: #0077B5;
+}
+a.github {
+    color: black;
+}
