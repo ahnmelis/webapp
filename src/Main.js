@@ -4,8 +4,7 @@ import NavHeader from "./common/NavHeader";
 class Main extends Component {
   render() {
     return (
-      <div>
-          <p id="title">Melissa Ahn</p>
+      <div id="background">
           <NavHeader />
       </div>
     );
