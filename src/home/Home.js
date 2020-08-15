@@ -9,7 +9,7 @@ class Home extends Component {
     return (
       <div>
         <div className="greetAndPhoto">
-        <span id="profile"><Box><Image src={ProfilePic} thumbnail width="20%" height="20%"/></Box></span>
+        <span id="profile"><Box><Image src={ProfilePic} thumbnail width="504" height="672" fluid/></Box></span>
           <Box>
             <h1>Welcome!</h1>
             <p>My name's Melissa, and I'm currently at the University of Southern California studying Computer Engineering and Computer Science.</p>
